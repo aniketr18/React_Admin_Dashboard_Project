@@ -1,2 +1,8 @@
-# React_Admin_Dashboard_Project
-This is an admin dashboard built with React and a Node.js API for efficient data management. It provides a user-friendly interface for handling and visualizing data, ensuring seamless CRUD operations. The dashboard is optimized for performance, security, and scalability, making it suitable for both small and large-scale applications. Additionally, it features role-based access control, real-time updates, and customizable components to enhance user experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
